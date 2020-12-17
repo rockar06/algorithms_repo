@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/two_sum_algorithm.iml" filepath="$PROJECT_DIR$/two_sum_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms_repo.iml" filepath="$PROJECT_DIR$/algorithms_repo.iml" />
     </modules>
   </component>
 </project>
