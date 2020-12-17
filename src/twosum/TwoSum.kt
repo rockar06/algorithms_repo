@@ -1,4 +1,4 @@
-package TwoSum
+package twosum
 
 fun main(args: Array<String>) {
     val inputs = intArrayOf(0, 4, 3, 0)
